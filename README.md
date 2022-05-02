@@ -42,6 +42,7 @@ git submodule add git@github.com:Peanuts-83/Git-test.git
 ### Commit all & push
 
 ```bash
+git status
 git add .
 git commit -m'Name of the commit'
 git push
