@@ -1,4 +1,5 @@
-# HowTo use GitHub - for Learning purpose
+# HowTo use Git - for Learning purpose
+to ignore some files/folders and even don't display them on git status, if .gitignore is not enough, add unwanted files ref in this text file : **.git/info/exclude**
 
 [Git-CheatSheet.pdf](./github-git-cheat-sheet.pdf)
 
